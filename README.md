@@ -18,6 +18,7 @@ Nazywam się Kacper, jestem **Początkującym Programistą** i wykonuje prywatne
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=10Koval10&count_private=true&show_icons=true&include_all_commits=true&theme=dark&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10Koval10&hide=TeX&layout=compact&theme=dark)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=10Koval10&theme=dark&locale=pl)](https://git.io/streak-stats)
 
  
