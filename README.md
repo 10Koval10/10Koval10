@@ -18,7 +18,7 @@ Nazywam się Kacper, jestem **Początkującym Programistą** i wykonuje prywatne
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=10Koval10&count_private=true&show_icons=true&include_all_commits=true&theme=dark&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10Koval10&hide=TeX&layout=compact&theme=dark)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=10Koval10)](https://github.com/anuraghazra/github-readme-stats)
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=10Koval10.10Koval10)
 ## Wsparcie 
