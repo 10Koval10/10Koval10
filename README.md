@@ -1,6 +1,4 @@
-### Cześć 👋
-
-Nazywam się Kacper, jestem **Początkującym Programistą** i wykonuje prywatne zlecenia za darmo, głownie związane z robieniem gier lub z developerką serwerów Fivem i Minecraft [Discord Kontaktowy](https://discord.com/users/819502015662653461). Programowaniem na poważnie zajmuje się od prawie roku lecz początki sięgają do 2021. Jeśli chcesz dowiedzieć się o mnie więcej poniżej znajdują się linki:
+### Spierdalaj mordo czego ty tu szukasz
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koval-2-733096346/)
 
@@ -24,6 +22,6 @@ Nazywam się Kacper, jestem **Początkującym Programistą** i wykonuje prywatne
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=10Koval10.10Koval10)
 ## Wsparcie 
 
-[Kup mi kawę](https://www.buymeacoffee.com/koval82pll)
+[Kup mi kawę albo masz w pape](https://www.buymeacoffee.com/koval82pll)
 
 
