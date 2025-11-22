@@ -9,7 +9,7 @@ brak xd
 ## Statystyki
 
 ![kowalczyq's Stats](https://github-readme-stats.vercel.app/api?username=kowalczyq&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10Koval10&hide=TeX&layout=compact&theme=dark)
+![kowalczyq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kowalczyq&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 
  
