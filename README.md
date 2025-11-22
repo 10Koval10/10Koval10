@@ -8,7 +8,7 @@ brak xd
 
 ## Statystyki
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=10Koval10&count_private=true&show_icons=true&include_all_commits=true&theme=dark&layout=compact)
+![Github Stats]((https://github-readme-stats.vercel.app/api?username=kowalczyq&theme=monokai&show_icons=true&hide_border=true&count_private=true))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10Koval10&hide=TeX&layout=compact&theme=dark)
 
 
