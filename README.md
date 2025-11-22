@@ -4,7 +4,7 @@
 
 ## Umiejętności
 
-brak
+brak xd
 
 ## Statystyki
 
