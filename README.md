@@ -8,11 +8,11 @@ brak xd
 
 ## Statystyki 
 
-![kovalczyq's Stats](https://github-readme-stats.vercel.app/api?username=kovalczyq&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![Kovalczyq's Stats](https://github-readme-stats.vercel.app/api?username=Kovalczyq&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
-![kovalczyq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kovalczyq&theme=midnight-purple&hide_border=true)
+![Kovalczyq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kovalczyq&theme=midnight-purple&hide_border=false)
 
-![kovalczyq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kovalczyq&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![Kovalczyq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kovalczyq&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
 
  
